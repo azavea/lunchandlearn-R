@@ -14,7 +14,7 @@ require(spatstat, quietly=T)
 require(rgdal, quietly=T)
 require(raster, quietly=T)
 require(RColorBrewer, quietly=T)
-require(maptools)
+require(maptools, quietly=T)
 
 
 ####
