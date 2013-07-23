@@ -1,4 +1,4 @@
-Lunch and Learn - Manipulating Spatial Data in R
+Manipulating Spatial Data in R
 ===============
 
-Examples of manipulating spatial data in R.
+This repo provides examples of manipulating spatial data in R.   These scripts are provided AS-IS and are prototype quality.
